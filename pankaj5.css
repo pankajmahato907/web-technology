@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #0C3B2E;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+
+.left{
+    padding-top: 6vw;
+    padding-left: 6vw;
+}
+
+img{
+    width: 50vw;
+    height: 100vh;
+    object-fit: cover;
+}
